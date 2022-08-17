@@ -4,7 +4,7 @@ A take home test for Front-end Developers.
 ## Instructions
 + Clone this repo
 + Complete this exercise and submit either a zip of the solution or a link to a new repo
-+ All choices of libraries, frameworks, etc. are up to you.
++ Must use either React or Vue but all choices of libraries, frameworks, etc. are up to you.
 
 ## Requirements
 + Solution should be responsive
